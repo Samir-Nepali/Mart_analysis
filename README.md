@@ -1,5 +1,5 @@
 # Mart_analysis
-mart data analysis using python and sql
+Mart data analysis using python and sql
 
 # 🛒 Walmart Sales Data Analysis Project
 
