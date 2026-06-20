@@ -12,12 +12,7 @@ Explore the dataset to understand its structure and identify issues.
 Clean the data by removing duplicates, handling missing values, and fixing data types.
 Create new features, such as calculating the total sales amount for each transaction.
 Store the cleaned data in MySQL and PostgreSQL databases.
-Use SQL queries to answer business questions, such as:
-Which products sell the most?
-Which branches generate the highest revenue?
-What are the peak sales periods?
-How do customers prefer to pay?
-Document the entire process and publish the project on GitHub.
+Use SQL queries to answer business questions.
 
 ## Outcome:
 The project helps uncover valuable business insights from Walmart sales data while developing practical skills in Python, SQL, data cleaning, database management, and data analysis.
